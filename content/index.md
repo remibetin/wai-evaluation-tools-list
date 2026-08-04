@@ -19,7 +19,7 @@ sidebar: false
             To determine what kind of tool you need and how they are able to assist you, see <a href="../selecting/">Selecting Web Accessibility Evaluation Tools</a>.
         </p>
         {% include box.html type="start" class="highlighted" %}
-        <p><strong>Note:</strong> We are considering retiring the web accessibility evaluation tools list. For more information, see the <a href="https://github.com/w3c/wai-website/issues/@@">GitHub discussion</a>. We welcome feedback by @@Day @@Month 2026.</p>
+        <p><strong>Note:</strong> We are considering retiring the web accessibility evaluation tools list in late 2026. For more information, see the <a href="https://github.com/w3c/wai-website/issues/@@">GitHub discussion</a>.</p>
         {% include box.html type="end" %}
         {% include box.html type="start" %}
         <p>Information on this page is submitted by providers and others. <abbr title="World Wide Web Consortium">W3C</abbr> does not endorse specific products.</p>
